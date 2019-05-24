@@ -8,7 +8,7 @@ import java.awt.event.WindowEvent;
 public class TankClient extends Frame {
 	
 	int x = 50;
-	int y = 50;
+	int y = 40;
 	
 	Image offScreenImage = null;
 
